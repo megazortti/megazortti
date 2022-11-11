@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/megazortti)
+![Leetcode Stats](https://leetcard.jacoblin.cool/megazortti?ext=activity)
